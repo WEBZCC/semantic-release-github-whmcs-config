@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.7...v1.4.0) (2021-07-12)
+
+
+### Features
+
+* **cnic:** upgrade base dependency to fix cnic ci ([1b52987](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/1b529871b306174cdf2ef6dd85d2b2f647b954d1))
+
 ## [1.3.7](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.6...v1.3.7) (2021-01-21)
 
 
