@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.4.0...v1.4.1) (2021-08-03)
+
+
+### Bug Fixes
+
+* **build:** fixed engine version ([9a2ce27](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/9a2ce277f93b6e9a851072a26376d17d50dc5675))
+
 # [1.4.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.7...v1.4.0) (2021-07-12)
 
 
