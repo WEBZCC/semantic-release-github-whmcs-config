@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.4.1...v2.0.0) (2021-11-25)
+
+
+### chore
+
+* **keywords:** updated ([83f5301](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/83f5301cef758015c50b660acf186685d9f9224a))
+
+
+### BREAKING CHANGES
+
+* **keywords:** upgraded to semantic-release v18
+
 ## [1.4.1](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.4.0...v1.4.1) (2021-08-03)
 
 
