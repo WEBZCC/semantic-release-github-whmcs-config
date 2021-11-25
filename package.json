@@ -25,7 +25,8 @@
     "git",
     "release",
     "changelog",
-    "whmcs"
+    "whmcs",
+    "marketplace"
   ],
   "author": "Kai Schwarz <kschwarz@hexonet.net>",
   "license": "MIT",
