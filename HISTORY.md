@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v2.0.0...v3.0.0) (2022-06-08)
+
+
+### chore
+
+* **dep-bump:** upgraded npm engines and software dependencies ([bf7ad16](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/bf7ad16f338f78d275ed389d5ad2eb5fb50fb03c))
+
+
+### BREAKING CHANGES
+
+* **dep-bump:** semantic-release v19
+
 # [2.0.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.4.1...v2.0.0) (2021-11-25)
 
 
