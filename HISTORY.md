@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v3.0.0...v3.0.1) (2022-06-14)
+
+
+### Bug Fixes
+
+* **semantic-release:** include package-lock.json in version commit ([8f3c0ea](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/8f3c0ea9835312ba26d6001e4d45845834d70064))
+
 # [3.0.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v2.0.0...v3.0.0) (2022-06-08)
 
 
