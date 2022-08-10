@@ -1,3 +1,10 @@
+## [3.0.2](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v3.0.1...v3.0.2) (2022-08-10)
+
+
+### Bug Fixes
+
+* **semantic-release:** upgrade whmcs plugin to 4.0.3 ([0fb867f](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/0fb867f6978f1b95ec8ad1cd8f1903ce63265b79))
+
 ## [3.0.1](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v3.0.0...v3.0.1) (2022-06-14)
 
 

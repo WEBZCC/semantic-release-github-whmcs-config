@@ -1,6 +1,6 @@
 {
   "name": "@hexonet/semantic-release-github-whmcs-config",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "semantic-release shareable configuration for GitHub + WHMCS Marketplace",
   "main": ".sharedreleaserc.js",
   "private": false,
